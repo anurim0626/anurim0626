@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/https://github.com/anurim0626{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/anurim0626{handle})
