@@ -1,6 +1,9 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=8593F7&background=FFFFFF00&lines=Welcome%2C+my+portfolio)](https://git.io/typing-svg)
+<div align = "center">
 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&color=8593F7&background=FFFFFF00&lines=Welcome%2C+my+portfolio)](https://git.io/typing-svg)
 <!--
+</div>
+
 **anurim0626/anurim0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
